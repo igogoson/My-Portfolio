@@ -49,8 +49,8 @@ Of course, you will also have to create your content on your CosmicJS bucket (be
 
 👤 **Hugo Bollon**
 
-* Github: [@hbollon](https://github.com/hbollon)
-* LinkedIn: [@Hugo Bollon](https://www.linkedin.com/in/hugo-bollon-68a2381a4/)
+* Github: [@igogoson](https://github.com/hbollon)
+* LinkedIn: [@Peter_Wangai](https://www.linkedin.com/in/hugo-bollon-68a2381a4/)
 
 ## 🤝 Contributing
 
